@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Alex
 - 👀 I’m interested in Android Develop also Games
-- 🌱 I’m currently learning Android Fundamentally Function
 - 📫 Find me : Chinaqth@gmail.com
 
 <!---
